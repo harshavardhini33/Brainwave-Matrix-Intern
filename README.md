@@ -16,5 +16,5 @@ For a detailed analysis and visualizations, please refer to the attached Jupyter
 
 For any inquiries or feedback regarding this project, please contact:
 
-LinkedIn: <a href="(https://www.linkedin.com/in/harshavardhini-manickam-545299226/)">HARSHAVARDHINI M</a><br>
+LinkedIn: <a href="https://www.linkedin.com/in/harshavardhini-manickam-545299226/">HARSHAVARDHINI M</a><br>
 Email: harshavardhini332004@gmail.com
