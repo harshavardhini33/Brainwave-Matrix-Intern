@@ -82,8 +82,7 @@ plt.show()
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/amazon-sales-data-analysis.git
-   cd amazon-sales-data-analysis
+   git clone https://github.com/harshavardhini33/Brainwave-Matrix-Intern/tree/main/TASK%201
    ```
 
 2. Install the required dependencies:
